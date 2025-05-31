@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Taches Master</string>
+    <string name="ajouter_une_tache">Ajouter une tâche</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="email">Email</string>
+    <string name="connexion">Connexion</string>
+    <string name="s_inscrire">S\'inscrire</string>
+    <string name="titre_de_la_tache">Titre de la tâche</string>
+    <string name="description">Description</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="se_deconnecter">Se déconnecter</string>
+    <string name="creer_un_compte">Créer un compte</string>
+</resources>
